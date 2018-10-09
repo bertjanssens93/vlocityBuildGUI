@@ -1,0 +1,20 @@
+queries:
+  - AttributeCategory
+  - CalculationProcedure
+  - ContextAction
+  - ContextDimension
+  - ContextScope
+  - EntityFilter
+  - ObjectClass
+  - ObjectContextRule
+  - Pricebook2
+  - PriceList
+  - PricingVariable
+  - Product2
+  - Promotion
+  - Rule
+  - TimePlan
+  - TimePolicy
+  - UIFacet
+  - VlocityFunction
+  - VlocityPicklist

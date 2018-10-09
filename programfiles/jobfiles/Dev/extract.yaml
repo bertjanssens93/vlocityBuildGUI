@@ -1,0 +1,7 @@
+projectPath: ../Environments/LatestExtract/Dev/CDLOT 
+queries:
+  - VlocityCard
+  - VlocityUILayout
+  - VlocityUITemplate
+  - OmniScript
+  - DataRaptor

@@ -1,0 +1,5 @@
+queries:
+    - VlocityDataPackType: VlocityUITemplate 
+      query: Select Id from %vlocity_namespace%__VlocityUITemplate__c WHERE (Id = 'a4B6E0000009gWBUAY' Or Id = 'a4B6E0000009fL9UAI' Or Id = 'a4B6E0000009fL8UAI' OR Id = 'a4B6E0000009gWQUAY' OR Id = 'a4B6E0000009gW9UAI' OR Id = 'a4B6E0000009gVxUAI' OR Id = 'a4B6E0000009gVyUAI') AND %vlocity_namespace%__Active__c = true
+    - VlocityDataPackType: VlocityCard 
+      query: Select Id from %vlocity_namespace%__VlocityCard__c WHERE Id = 'a3t6E000000ge9cQAA' AND %vlocity_namespace%__Active__c = true

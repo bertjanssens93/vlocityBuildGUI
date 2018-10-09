@@ -1,0 +1,3 @@
+queries:
+    - VlocityDataPackType: OmniScript 
+      query: Select Id from vlocity_cmt__OmniScript__c WHERE Name = 'Random New Omniscript' AND vlocity_cmt__IsActive__c = true
